@@ -12,3 +12,8 @@
 [抽丝剥茧 okhttp3 （三)][3]
 
 [3]: https://www.jianshu.com/p/cf59397dce1f
+
+[抽丝剥茧 okhttp3 （四) 请求流程][4]
+
+[4]: https://www.jianshu.com/p/62e0b64b8bc6
+
