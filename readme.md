@@ -17,3 +17,9 @@
 
 [4]: https://www.jianshu.com/p/62e0b64b8bc6
 
+[抽丝剥茧okhttp（五）Interceptors原理][5]
+
+[5]: https://www.jianshu.com/p/34e08ad65646
+
+
+
